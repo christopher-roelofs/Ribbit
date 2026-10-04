@@ -1,2 +1,2 @@
 # Ribbit
-A cross platform Leapster emulator
+A cross platform Leapster emulator for first generation Leapster devices.
